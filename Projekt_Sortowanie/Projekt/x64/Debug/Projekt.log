@@ -1,0 +1,8 @@
+﻿  Babelkowe.cpp
+  kopcowanie.cpp
+  Projekt.cpp
+C:\Users\bober\OneDrive\Pulpit\stare\Projekt_Sortowanie\Projekt.cpp(36,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  QuickSort.cpp
+  Scalanie.cpp
+  Generating Code...
+  Projekt.vcxproj -> C:\Users\bober\OneDrive\Pulpit\stare\Projekt_Sortowanie\x64\Debug\Projekt.exe
